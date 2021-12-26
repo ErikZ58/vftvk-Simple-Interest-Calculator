@@ -1,5 +1,6 @@
 function compute()
 {
+    alert("Test test test")
     var principal = document.getElementById("principal").value;
     if (principal <= 0)
     {

@@ -5,6 +5,7 @@ function compute()
     {
         document.getElementById("result").innerHTML= " ";
         alert("Enter a positive number");
+        document.getElementById("principal").focus();
         return;
     }
     var rate = document.getElementById("rate").value;

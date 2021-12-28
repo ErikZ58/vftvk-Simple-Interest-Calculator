@@ -1,5 +1,5 @@
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
 .maindiv {background-color:white;color:black;width:300px;padding:20px;border-radius:20px;margin:auto}
-.maindiv label {float:left;width:25%;text-align:left}
-.maindiv input {float:left;width:65%}
+.maindiv label {float:left;width:40%;text-align:left}
+.maindiv input {float:left;width:40%}

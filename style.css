@@ -1,5 +1,7 @@
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
-.maindiv {background-color:white;color:black;width:300px;padding:20px;border-radius:20px;margin:auto}
+.maindiv {background-color:white;color:black;width:500px;padding:20px;border-radius:20px;margin:auto}
 .maindiv label {float:left;width:40%;text-align:left}
 .maindiv input {float:left;width:40%}
+.maindiv footer {color:black}
+.maindiv select {float:left;width:40%}
